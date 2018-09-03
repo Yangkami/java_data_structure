@@ -5,7 +5,7 @@ class paillie{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("456");
-		pailie("AB", "");
+		pailie("ABCD", "");
 	}
 
 	public static void pailie(String a, String result) {
